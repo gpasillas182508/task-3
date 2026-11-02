@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Profile Card 3",
+    "slug": "profile-card-modals",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
